@@ -1,4 +1,4 @@
-# spring-batch-demo1
+# springBatch与springBoot的集成示例
 这是一个spring batch的简单示例，以springBoot+MyBatis为基本框架，同时集成spring batch。
 其中，mybatis还集成了自动生成example的组件 generator，而spring batch 关于作业的配置，则用了java config的方式来配置。  
 
